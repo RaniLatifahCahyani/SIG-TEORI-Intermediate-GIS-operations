@@ -32,3 +32,4 @@
 30. Setelah Anda puas menutup panel styling Layer. Kami sekarang memiliki visualisasi informasi kepadatan populasi yang terlihat bagus di California
 
 LINK PROJECT : https://github.com/RaniLatifahCahyani/SIG-TEORI-Intermediate-GIS-operations/blob/main/SIG-Teori%20Intermediate%20Project%201/1.%20Performing%20Table%20Joins%20(QGIS3).qgz
+LINK HASIL LAYOUT : https://github.com/RaniLatifahCahyani/SIG-TEORI-Intermediate-GIS-operations/blob/main/SIG-Teori%20Intermediate%20Project%201/layout%20project%201.jpeg
